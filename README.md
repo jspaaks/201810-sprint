@@ -25,3 +25,4 @@ make a list of compiance of current items in the RSD:
 
 make a list of the new tools (requires coordinators)
 - Ben de Vries exploface etc.
+- Jupyterlab_thredds stefan
