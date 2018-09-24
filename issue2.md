@@ -8,11 +8,32 @@
         - Janneke
     - benvw
         - Alessio
+            - pipeline for pulsars, amber aa-alert
+            - tunebench, benchmark suite for autotuning
+            - manycore project, nlp for word2vec, javaimplementatie
+            - gene sequencing (bioinformatica)
         - Bouwe
+            - esmvaltool
+                - dlr, ownership?
+            - satsense, https://github.com/dynaslum/satsense, slum detection
         - Stijn
+            - literature, scripts/notebook: scopus miner, topic modeling, graafanalyse, etc. use case exascale onderzoek
+            - km3net
         - Inti
+            - AMUSE, OMUSE, HyMUSE
+            - MUSE separation, BMI Basic Model Interface generation, over gRPC communication between models
+            - relation to musc/emusc? both do model coupling, 
         - Souley
+            - PROCESS, validation of existing software (software engineering)
         - Niels
+            - MAGIC, webinterface esgf? klimaatdata https://meetingorganizer.copernicus.org/EGU2018/EGU2018-17344.pdf, c3s-34a is de tool
+            - mvp: ewatercycle: webinterface (experiment-launcher?), ben stuurt nog de link
+            - esmvaltool
+        - ben
+            - kernel_tuner
+            - python template
+            - cutocl...maybe
+            - km3net (also: stijn, hanno, daniela) 
     - elena
         - Christiaan
         - Sonja
