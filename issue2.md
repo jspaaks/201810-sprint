@@ -8,7 +8,7 @@
             - km3net
             - dirac, python package van gemaakt voor deep learning pytorch
             - sagecal: radioastronomy, met sarod, accessibility o.a. voor ska
-            - esocpfl, arnold, valentina, ronald, laurens. web portal for making lofar data toegankelijk.
+            - eoscpfl, arnold, valentina, ronald, laurens. web portal for making lofar data toegankelijk.
         - Wouter
             - library phd for domain adaptation; generalisatie van machine learning. "extrapolatie van machine learning network"
             - young escientist award maureen van eijnatten 3d printing van body parts; https://github.com/NLeSC/yeap16-ai-3d-printing
@@ -20,7 +20,7 @@
             - provenance-core, (Angular?)
             - uncertaintyviz https://github.com/NLeSC/TEAM2018/issues/31
             - brainvis (niet 100% van ons, misschien beter als example van provenance-core)
-            - treevisualizer (mmarten vragen)
+            - treevisualizer (maarten vragen)
         - Janneke
             - python template
             - nlppln
@@ -127,3 +127,25 @@
         - engineer, tool
     - willem
         - engineer, tool
+
+most promising candidates
+
+- tomk: provenance.js
+- wouter: 3d printing pipeline?
+- martine: evidence?
+- maarten: treevisualizer
+- janneke: zoekmachine voor arabische teksten entity recognition? / topic modeling =? blacklab
+- evelien: data agreement criterium
+- alessio: pipeline for pulsars, amber aa-alert
+- alessio: tunebench
+- bouwe: satsense
+- stijn: scopusminer
+- Inti: HyMUSE
+- Niels: webinterface esgf
+- PatrickB: implemented another parallelization framework for Root
+- Stefan: THREDDS
+- Stefan: 3dechem
+- Stefan: vlpb ave tool
+- Stefan: magma & ms2lda topic modeling applied to ms
+- Ben de Vries: exploface
+
