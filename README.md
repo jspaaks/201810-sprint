@@ -26,3 +26,16 @@ make a list of compiance of current items in the RSD:
 make a list of the new tools (requires coordinators)
 - Ben de Vries exploface etc.
 - Jupyterlab_thredds stefan
+
+- write document targeting coordinators to change how they work
+- update/start anew guide nlesc-specific section about how to add things in zotero, describe delays with respect to
+
+
+
+zotero
+- impact v output collections
+- unfiled items
+- duplicate items
+- tags via zotero rdf export
+
+
