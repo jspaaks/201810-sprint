@@ -113,6 +113,7 @@
             - dementia project, audio analyse (ask bendev, openface opensmile gerelateerd?)
             - previous life work...? absorptie van deeltjes oid
             - whatworkswhenforwhom
+            - exploface?
     - nico
         - engineer, tool
     - rena
