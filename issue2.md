@@ -1,16 +1,41 @@
 - rob 
     - adrienne
         - Atze
+            - fpga, matrixvermenigvuldiging
+            - manycore, pieter hijma, en henri bal, nlp java word2vec.
+            - mcfly, tutorial
         - Hanno
+            - km3net
+            - dirac, python package van gemaakt voor deep learning pytorch
+            - sagecal: radioastronomy, met sarod, accessibility o.a. voor ska
+            - esocpfl, arnold, valentina, ronald, laurens. web portal for making lofar data toegankelijk.
         - Wouter
+            - library phd for domain adaptation; generalisatie van machine learning. "extrapolatie van machine learning network"
+            - young escientist award maureen van eijnatten 3d printing van body parts; https://github.com/NLeSC/yeap16-ai-3d-printing
+            - evidence, newsreader er is ook een photo essay over evidence
+            - docker packaging van newsreader, zie readme, heeft ook nog een paper
         - Yifat
+            - ewatercycle: design document van mvp
         - Maarten
+            - provenance-core, (Angular?)
+            - uncertaintyviz https://github.com/NLeSC/TEAM2018/issues/31
+            - brainvis (niet 100% van ons, misschien beter als example van provenance-core)
+            - treevisualizer (mmarten vragen)
         - Janneke
+            - python template
+            - nlppln
+            - zoekmachine voor arabische teksten entity recognition? / topic modeling
+            - blacklab
+            - ochre
+        - Evelien
+            - extension R statistical metric van data agreement criterium bayesian statistics (beetje omgekeerde van PIMLI)
+            - challenges eyra benchmark: https://github.com/comic/grand-challenge.org (mostly niet ons ding)
+            - openml translator tussen grand-challenge.org en php based openml community
     - benvw
         - Alessio
             - pipeline for pulsars, amber aa-alert
             - tunebench, benchmark suite for autotuning
-            - manycore project, nlp for word2vec, javaimplementatie
+            - manycore project, java implementatie van interface tussen word2vec en (nlp en bioinformatics tool voor sequencing)
             - gene sequencing (bioinformatica)
         - Bouwe
             - esmvaltool
