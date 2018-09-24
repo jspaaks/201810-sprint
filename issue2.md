@@ -45,11 +45,19 @@
         - engineer, tool
     - jisk
         - Carlos
+            - 
         - Patrick B
+            - root spullen
+            - derde parallelisatieframework
         - Erik
+            - interface for machine learning humanities NLP (met TomK)
         - Yang
+            - energy related energy transport
         - Valentina
         - Tom K.
+            - provenance js, ask adrienne
+        - jisk
+            - astrofyica
     - lars
         - Stefan
             - thredds
