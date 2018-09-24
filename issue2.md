@@ -12,6 +12,7 @@
         - Stijn
         - Inti
         - Souley
+        - Niels
     - elena
         - Christiaan
         - Sonja
@@ -30,11 +31,34 @@
         - Tom K.
     - lars
         - Stefan
+            - thredds
+            - 3dechem
+            - vlpb ave tool
+            - magma & ms2lda topic modeling applied to ms
+            - navragen
+        - Roel
+            - eyrabenchmark
+            - fair workflows
+            - nog geen practisch resultaat
         - Vincent
+            - mcfly (uitbreiding onregelmatige tijdstappen, met wageningen)
+            - ggir
+            - dementia project, audio analyse (ask bendev, openface opensmile gerelateerd?)
         - Arnold
+            - candygene, fairpoint python implementation (er is ook een java versie)
+            - virtuoso, 
+            - siga.py, fairifying genomen data
+            - qtltableminer
+            - googling the cancer genome, workflows for detecting structural variants sv-callers
         - Felipe
+            - chemistry, noodles, 
+            - qmflows quantum chemistry coding (uses noodles)
+                - iets bovenop qmflows (ask felipe, for specific analyses https://github.com/SCM-NV/qmflows-namd)
+            - protein binding, mdstudio (ook Lourens, cerise...check met lourens)
         - Ben de V.
-        - Niels
+            - dementia project, audio analyse (ask bendev, openface opensmile gerelateerd?)
+            - previous life work...? absorptie van deeltjes oid
+            - whatworkswhenforwhom
     - nico
         - engineer, tool
     - rena
