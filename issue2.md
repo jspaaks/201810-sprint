@@ -118,11 +118,42 @@
         - engineer, tool
     - rena
         - Berend
+            - boatswain
+            - data quality project
+            - datafairifier maastroclinic
+            - satsense dynaslums
+            - parameter sweep tool (dynaslum)
         - Lourens
+            - forest fragmentation tool not released
+            - cerise
+            - cyril? protein drug binding...binding to mdstudio
+            - charges assignment tool (something checmistry related)
+            - cwl 2.0?
+            - emusk (project) muscle (tool) 2 and 3, model coupling orchestration, use case blood particles & cfd, in-stent-restenosis;
+            - mmr? component to do ..?
         - Faruk
+            - SPOT with jisk
+            - 3dprinting tool adapting mri to ctscan
+            - DIRAC, Spark data management tool with Hanno
+            - MAGIC, unknown?
+            - spare time: proton therapy
         - Gijs
+            - eWaterCycle, model bindings HyMUSE, BMI
+            - ec-earth hi-res primavera
+            - Dales / cloud resolver
+            - OMUSE bindings to openIFS to DALES
+            - ec2cmore
+            - Barcelona Supercomputing Centre, exaws for ifs?? 
         - Johan
+            - Noodles
+            - pyxenon
+            - hypercanny
+            - electron scattering with TUDelft
+            - autograph traffic and transport maps
         - Martine
+            - newsreader,
+            - datafairifier
+            - eWaterCycle ..?
     - romulo
         - engineer, tool
     - willem
