@@ -1,0 +1,74 @@
+#Insufficient citability
+
+- KNIME PLANTS
+- KNIME Python wrapper
+- SyGMa
+- 3D-e-Chem Virtual Machine
+- AHN point cloud viewer web service
+- AHN2 pointcloud viewer
+- Allelic Variation Explorer
+- AMUSE
+- Beyond the book
+- Case Law App
+- caselawnet
+- Cesium-ncWMS
+- Chemical Analytics Platform
+- Cross-perspective Topic Modeling
+- Dive
+- eEcology Annotation Tool
+- eEcology-SMS-reciever
+- eEcology Tracker calendar
+- PyELSEPA
+- eWaterLeaf
+- FAIR Data Point
+- FastMLC
+- Lysander
+- frbcat-web
+- frbcatdb
+- GoogleEarth Toolbox for MATLAB
+- grlc
+- Hadrianus scripts
+- HyperCanny
+- GPCRdb KNIME nodes
+- KNIME molecule viewer nodes
+- KNIME ss-TEA node
+- KNIME Testflow
+- pbg-ld
+- MAGMa
+- Massive PotreeConverter
+- mcfly
+- MDStudio
+- MMSODA Toolbox for MATLAB
+- Noodles
+- ochre
+- OCTSEG
+- OMUSE
+- Hercules
+- Osmium
+- PattyAnalytics
+- Via Appia Visualization
+- PIDIMEHS library
+- python-pcl
+- PyXenon
+- QMflows
+- QTLTableMiner++
+- recipy
+- ReGIS
+- SalientDetector-python
+- SalientDescriptor-matlab
+- SalientDetector-matlab
+- Structure from Motion
+- Emma
+- ShiCo
+- SIGA.py
+- SPOT
+- StoryTeller
+- One button compute
+- Twiqs
+- GGIR
+- Xenon gRPC server
+- boatswain
+- xtas
+- Texcavator
+- sv-callers
+- Netherlands eScience Center Python Template

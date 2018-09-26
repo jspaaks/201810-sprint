@@ -1,0 +1,46 @@
+# No valid conceptDOI
+
+- AMUSE: 10.0000/FIXME
+    - Inti
+- Beyond the book: 10.0000/FIXME
+    - Carlos, 
+- Chemical Analytics Platform: 10.0000/FIXME
+    - Stefan
+- eEcology Tracker calendar: 10.0000/FIXME
+    - Stefan
+- eWaterLeaf: 10.0000/FIXME
+    - Niels
+- GoogleEarth Toolbox for MATLAB: 10.0000/FIXME
+    - 20180925 unpublished
+- Hadrianus scripts: 10.0000/FIXME
+    - PatrickB, Arnold
+- GPCRdb KNIME nodes: 10.0000/FIXME
+    - Stefan
+- pbg-ld: 10.0000/FIXME
+    - Arnold, Carlos
+- MDStudio: 10.0000/FIXME
+    - felipe
+- MMSODA Toolbox for MATLAB: 10.0000/FIXME
+    - 20180925 Jurriaan gevraagd, in afwachtings
+- ochre: 10.0000/FIXME
+    - Janneke
+- OCTSEG: 10.0000/FIXME
+    - Elena
+- PattyAnalytics: 10.0000/FIXME
+    - Jisk, Carlos
+- PIDIMEHS library: 10.0000/FIXME
+    - PatrickB
+- python-pcl: 10.0000/FIXME
+    - Jisk, Carlos
+- recipy: 10.0000/FIXME
+    Janneke, 
+- ReGIS: 10.0000/FIXME
+    - moet unpublish?
+- Structure from Motion: 10.0000/FIXME
+    - Niels, Jurriaan
+- ShiCo: 10.0000/FIXME
+    - 20180925 asked carlos, in afwachting
+- xtas: null
+    - 
+- Texcavator: 10.0000/FIXME
+    -  20180925 janneke gevraagd, in afwachting

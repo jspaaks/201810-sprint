@@ -1,0 +1,44 @@
+<html>
+    <head>
+        <script type="application/javascript">
+            const url = 'https://www.research-software.nl/api/software_cache';
+
+            //conceptDOi
+            fetch(url)
+            .then((resp) => resp.json())
+            .then(function(items) {
+                document.write('<h1>No valid conceptDOI</h1><ol>')
+                return items.forEach(function(item) {
+                    if (item.isPublished && ( item.conceptDOI === '10.0000/FIXME' || item.conceptDOI === null )) {
+                        document.write('<li>' + item.brandName + ': ' + item.conceptDOI + '</li>')
+                    }
+                })
+                document.write('</ol>')
+            })
+            .catch(function(error) {
+                console.log(JSON.stringify(error));
+            });
+
+            // // citability
+            // fetch(url)
+            // .then((resp) => resp.json())
+            // .then(function(items) {
+            //     document.write('<h1>Insufficient citability</h1><ol>')
+            //     return items.forEach(function(item) {
+            //         if (item.isPublished && item.latestCodemeta === null) {
+            //             document.write('<li>' + item.brandName + '</li>')
+            //         }
+            //     })
+            //     document.write('</ol>')
+            // })
+            // .catch(function(error) {
+            //     console.log(JSON.stringify(error));
+            // });
+
+
+        </script>
+    </head>
+        
+    <body>
+    </body>
+</html>
