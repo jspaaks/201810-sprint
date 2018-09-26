@@ -81,8 +81,10 @@
         - Valentina
         - Tom K.
             - provenance js, ask adrienne
+            - GlamGeoServer
+            - GlamGeoMap
         - jisk
-            - astrofyica
+            - astrofysica
     - lars
         - Stefan
             - thredds
@@ -129,8 +131,10 @@
             - cyril? protein drug binding...binding to mdstudio
             - charges assignment tool (something checmistry related)
             - cwl 2.0?
-            - emusk (project) muscle (tool) 2 and 3, model coupling orchestration, use case blood particles & cfd, in-stent-restenosis;
+            - emusc (project) muscle (tool) 2 and 3, model coupling orchestration, use case blood particles & cfd, in-stent-restenosis; https://github.com/multiscale
             - mmr? component to do ..?
+            - isr2d: https://gitlab.computationalscience.nl/lourens/ISR2D (private repo)
+            - 
         - Faruk
             - SPOT with jisk
             - 3dprinting tool adapting mri to ctscan
@@ -142,14 +146,18 @@
             - ec-earth hi-res primavera
             - Dales / cloud resolver
             - OMUSE bindings to openIFS to DALES
-            - ec2cmore
             - Barcelona Supercomputing Centre, exaws for ifs?? 
+            - https://github.com/CloudResolvingClimateModeling
+            - ece2cmor https://github.com/goord/ece2cmor3
         - Johan
             - Noodles
             - pyxenon
             - hypercanny
             - electron scattering with TUDelft
             - autograph traffic and transport maps
+            - Python version of openLR for autograph project: https://github.com/EYR-AutoGraph/OpenLR
+            - pyelsepa, A Python wrapper for ELSEPA (DOI: 10.5281/zenodo.1045194): https://github.com/eScatter/pyelsepa/tree/0.1
+            
         - Martine
             - newsreader,
             - datafairifier
