@@ -1,0 +1,24 @@
+// retrieve the conceptdoi for published items, so we can tell DANS
+// about those items
+
+const url = 'https://www.research-software.nl/api/software_cache';
+
+let filterer = (item) => {
+    return item.isPublished
+}
+let mapper = (item) => {
+    return {
+        brandName: item.brandName,
+        conceptDOI: item.conceptDOI
+    }
+}
+fetch(url)
+.then((resp) => resp.json())
+.then((items) => {
+    const filtered = items.filter(filterer);
+    const mapped = filtered.map(mapper);
+    console.log(mapped);
+})
+.catch(function(error) {
+    console.log(JSON.stringify(error));
+});

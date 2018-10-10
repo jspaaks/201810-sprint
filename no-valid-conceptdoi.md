@@ -1,45 +1,59 @@
 # No valid conceptDOI
 
-- eEcology Tracker calendar: 10.0000/FIXME
-    - Stefan
-- GPCRdb KNIME nodes: 10.0000/FIXME
-    - Stefan
-
 - Hadrianus scripts: 10.0000/FIXME
     - PatrickB, Arnold
-- PIDIMEHS library: 10.0000/FIXME
-    - PatrickB
-- pbg-ld: 10.0000/FIXME
-    - Arnold, Carlos
-
-- OCTSEG: 10.0000/FIXME
-    - Elena
-
-- Beyond the book: 10.0000/FIXME
-    - Carlos, 
-- PattyAnalytics: 10.0000/FIXME
-    - Jisk, Carlos
-- xtas: null
-    - 
-
-- recipy: 10.0000/FIXME
-    Janneke, 
-- ochre: 10.0000/FIXME
-    - Janneke
-- Texcavator: 10.0000/FIXME
-    -  20180925 janneke gevraagd, in afwachting
 
 # in progress
+- OCTSEG: 10.0000/FIXME
+    - Elena
+    - 20181010: Jurriaan made a PR with zenodo & cff, sent mail with merge and release request, awaiting response
+- PIDIMEHS library: 10.0000/FIXME
+    - PatrickB
+    - 20181010: Jurriaan asked for a doi (the repo is a bitbucket one, so just a single doi is good enough)
+- pbg-ld: 10.0000/FIXME
+    - Arnold, Carlos
+    - 20181010: Jurriaan made PR with CFF and zenodo files and asked Arnold to make a (pre)release, awaiting response
+- recipy: 10.0000/FIXME
+    - Janneke, 
+    - 20181010: Jurriaan made a PR to recipiers, awaiting response
+- ochre: 10.0000/FIXME
+    - Janneke
+    - 20181010: Jurriaan made a PR to Janneke, awaiting response
+
+# done
+- Texcavator: 10.0000/FIXME
+    -  20180925 janneke gevraagd, in afwachting
+    - done
+- xtas: null
+    - Lourens
+    - done
 - Chemical Analytics Platform: 10.0000/FIXME
     - Stefan
     - 20180926 added preexisting concept doi to admin interface
     - 20180926 made PR for Stefan, enabled github-zenodo integration (so the concept doi will be different from before)
+- eEcology Tracker calendar: 10.0000/FIXME
+    - Stefan
+    - 20180927 Jurriaan added conceptdoi to rsdadmin
+- GPCRdb KNIME nodes: 10.0000/FIXME
+    - Stefan
+    - 20180927 Jurriaan added preexisting conceptdoi
+- PattyAnalytics: 10.0000/FIXME
+    - Jisk, Carlos
+    - 20180927 Jurriaan added concpetdoi to rsdadmin
+    - 20180927 Jurriaan made pr with cff and zenodo file
+    - 20180927 done 
+- Beyond the book: 10.0000/FIXME
+    - Carlos, initiated
+    - 20180927, Jurriaan made a PR with CFF and zenodo
+    - done, should be visible 20180927
 - AMUSE: 10.0000/FIXME
     - 20180926 Inti gevraagd mail
+    - 20180927 Inti heeft github-zenodo integratie aangezet
+    - 20180927 Jurriaan heeft conceptdoi toegevoegd aan de rsdadmin
+    - 20180927 Jurriaan heeft PR gemaakt met CFF & .zenodo.json
 - eWaterLeaf: 10.0000/FIXME
     - 20180926 Niels gevraagd mail
-
-# done
+    - 20180927 Jurriaan heeft cff toegevoegd, release gemaakt, conceptdoi aan de rsdadmin toegevoegd
 - Structure from Motion: 10.0000/FIXME
     - Niels, Jurriaan
     - done, should show up sept 27
