@@ -172,7 +172,6 @@ most promising candidates
 - tomk: provenance.js
 - wouter: 3d printing pipeline?
 - martine: evidence?
-- maarten: treevisualizer
 - janneke: zoekmachine voor arabische teksten entity recognition? / topic modeling =? blacklab
 - evelien: data agreement criterium
 - alessio: pipeline for pulsars, amber aa-alert
@@ -182,9 +181,13 @@ most promising candidates
 - Inti: HyMUSE
 - Niels: webinterface esgf
 - PatrickB: implemented another parallelization framework for Root
-- Stefan: THREDDS
 - Stefan: 3dechem
 - Stefan: vlpb ave tool
 - Stefan: magma & ms2lda topic modeling applied to ms
 - Ben de Vries: exploface
+
+
+# done
+
+- Stefan: THREDDS
 

@@ -1,11 +1,5 @@
 # Insufficient citability
  
-1. KNIME PLANTS Stefan Verhoeven
-    - 20181015: has cff but not zenodo, waiting for new release
-1. KNIME Python wrapper Stefan Verhoeven
-    - 20181015: has cff and zenodo, waiting for a new release
-1. SyGMa Lars Ridder
-    - 20181015: has cff but not zenodo, waiting for a new release
 1. AHN point cloud viewer web service Stefan Verhoeven
 1. AHN2 pointcloud viewer Maarten Meersbergen
 1. Allelic Variation Explorer Stefan Verhoeven
@@ -48,29 +42,40 @@
 1. SalientDetector-matlab Elena Ranguelova
 1. Emma Niels Drost
 1. SIGA.py Arnold Kuzniar
-1. SPOT Faruk Diblen
-    - 20181015: master branch has cff and zenodo files, waiting for new release
 1. StoryTeller Maarten Meersbergen
 1. One button compute Stefan Verhoeven
 1. Twiqs Erik Tjong Kim Sang
+
+# waiting for a new release
+
+1. KNIME PLANTS Stefan Verhoeven
+    - 20181015: has cff but not zenodo, waiting for new release
+1. KNIME Python wrapper Stefan Verhoeven
+    - 20181015: has cff and zenodo, waiting for a new release
+1. SyGMa Lars Ridder
+    - 20181015: has cff but not zenodo, waiting for a new release
+1. SPOT Faruk Diblen
+    - 20181015: master branch has cff and zenodo files, waiting for new release
 1. GGIR Vincent Hees
     - 20181015: master branch has zenodo & cff, waiting for new release
 1. Xenon gRPC server Stefan Verhoeven
     - 20181015: has a basic citation.cff and zenodo
-1. boatswain Berend Weel
-    - 20181015: made a PR with zenodo metadata, waiting for merge and release by Berend
-1. xtas Lourens Veen
-    - 20181015: pull request with cff and zenodo exists, waiting for merge https://github.com/NLeSC/xtas/pull/126
 1. sv-callers Arnold Kuzniar
     - 20181015: has cff but not zenodo, waiting for a new release
 1. Netherlands eScience Center Python Template Janneke Zwaan
     - 20181015: master branch has zenodo and cff, waiting for new release
-1. ESMValTool Bouwe Andela
-    - 20181015: asked Bouwe if I need to make a PR that adds zenodo and cff data, waiting for reply
 1. Experiment Launcher Stefan Verhoeven
     - 20181015: master branch has zenodo & cff, waiting for new release
     - 20181015: updated cff and zenodo waiting for merge, and waiting until a new version is released
+    - 20181015: PR was merged, master branch now has zenodo and cff files, waiting for new release
 
+# waiting for a merge
+1. boatswain Berend Weel
+    - 20181015: made a PR with zenodo metadata, waiting for merge and release by Berend
+1. xtas Lourens Veen
+    - 20181015: pull request with cff and zenodo exists, waiting for merge https://github.com/NLeSC/xtas/pull/126
+1. ESMValTool Bouwe Andela
+    - 20181015: asked Bouwe if I need to make a PR that adds zenodo and cff data, waiting for reply
 
 # done
 
