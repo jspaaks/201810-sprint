@@ -6,6 +6,7 @@
     - Elena
     - 20181010: Jurriaan made a PR with zenodo & cff, sent mail with merge and release request, awaiting response
     - 20181010: Elena acknowledged
+    - 20181016: Jurriaan and Elena made release, waiting for overnight sync
 - recipy: 10.0000/FIXME
     - Janneke, 
     - 20181010: Jurriaan made a PR to recipiers, awaiting response
