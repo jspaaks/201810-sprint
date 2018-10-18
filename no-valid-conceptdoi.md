@@ -1,12 +1,6 @@
 # No valid conceptDOI
 
-
 # in progress
-- OCTSEG: 10.0000/FIXME
-    - Elena
-    - 20181010: Jurriaan made a PR with zenodo & cff, sent mail with merge and release request, awaiting response
-    - 20181010: Elena acknowledged
-    - 20181016: Jurriaan and Elena made release, waiting for overnight sync
 - recipy: 10.0000/FIXME
     - Janneke, 
     - 20181010: Jurriaan made a PR to recipiers, awaiting response
@@ -16,6 +10,11 @@
     - 20181010: Jurriaan made a PR to Janneke, awaiting response
 
 # done
+- OCTSEG: 10.0000/FIXME
+    - Elena
+    - 20181010: Jurriaan made a PR with zenodo & cff, sent mail with merge and release request, awaiting response
+    - 20181010: Elena acknowledged
+    - 20181016: Jurriaan and Elena made release, waiting for overnight sync
 - PIDIMEHS library: 10.0000/FIXME
     - PatrickB
     - 20181010: Jurriaan asked for a doi (the repo is a bitbucket one, so just a single doi is good enough)

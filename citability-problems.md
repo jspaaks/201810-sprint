@@ -35,8 +35,6 @@
 1. PyXenon Johannes Hidding
 1. QMflows Lars Ridder
 1. QTLTableMiner++ Gurnoor Singh
-1. recipy Janneke Zwaan
-    - 20181015: PR with CFF and zenodo has been merged to master, waiting for a new release
 1. SalientDetector-python Elena Ranguelova
 1. SalientDescriptor-matlab Elena Ranguelova
 1. SalientDetector-matlab Elena Ranguelova
@@ -45,9 +43,12 @@
 1. StoryTeller Maarten Meersbergen
 1. One button compute Stefan Verhoeven
 1. Twiqs Erik Tjong Kim Sang
+    - 20181018: has cff but invalid and is missing zenodo file
 
 # waiting for a new release
 
+1. recipy Janneke Zwaan
+    - 20181015: PR with CFF and zenodo has been merged to master, waiting for a new release
 1. KNIME PLANTS Stefan Verhoeven
     - 20181015: has cff but not zenodo, waiting for new release
 1. KNIME Python wrapper Stefan Verhoeven
